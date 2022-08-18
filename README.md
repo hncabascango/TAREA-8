@@ -56,9 +56,19 @@
 
 18. Realice las siguientes operaciones:
 
+![image](https://user-images.githubusercontent.com/105606339/185308783-4440ca20-7aeb-4bf2-b485-380b729743a0.png)
 
-20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
+(a)
 
+![image](https://user-images.githubusercontent.com/105606339/185331391-9d59206a-19a1-4483-bba4-2afef40a2269.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/185331532-b714f14e-2ef5-44f9-b3e1-61802b9cdffb.png)
+
+(d)
+
+![image](https://user-images.githubusercontent.com/105606339/185331671-9030c728-d35b-4718-a76b-a2620230bd21.png)
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85
 
