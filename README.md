@@ -76,6 +76,39 @@
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84
 
+![image](https://user-images.githubusercontent.com/105606339/185729750-d377cc81-5b06-4d59-b9c6-e6ea82fc17c6.png)
 
+(a)
+
+![image](https://user-images.githubusercontent.com/105606339/185730429-d3b65aef-5241-4474-9791-5ee1f7bff7f1.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/185730551-5b9f07d2-3a63-4460-b92f-f145819941d9.png)
 
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85
+
+
+
+
+40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
+
+![image](https://user-images.githubusercontent.com/105606339/185730985-9c4a2251-8550-4cf0-8c2e-0ba09b423f36.png)
+
+![image](https://user-images.githubusercontent.com/105606339/185731323-77ff1bc5-5ea1-4402-b659-4fd3ef580c87.png)
+
+42. Repita el problema 41 para las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105606339/185731363-ee12f806-f511-4ac2-9ee3-065318f1e73a.png)
+
+
+
+
+
+
+
+
+
+
+
+
