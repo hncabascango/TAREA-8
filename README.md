@@ -101,8 +101,17 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/185731363-ee12f806-f511-4ac2-9ee3-065318f1e73a.png)
 
+![image](https://user-images.githubusercontent.com/105606339/185791276-166d5433-1e89-4235-9d73-50cefded2faa.png)
 
+![image](https://user-images.githubusercontent.com/105606339/185791476-5b44544f-036b-4479-a792-380119a75163.png)
 
+![image](https://user-images.githubusercontent.com/105606339/185791670-863caebb-eec9-4ed8-a6a4-3dab7133b626.png)
+
+![image](https://user-images.githubusercontent.com/105606339/185791747-9a8d3ea9-4046-4477-8ceb-4573248660f5.png)
+
+46. Repita el problema 45 con R = 5.6 kΩ, C1 = 0.047 uF, C2 = 0.022 uF, y f = 500 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/185791889-4a76864a-ac44-43c3-8dbc-804fd10a5117.png)
 
 
 
