@@ -72,7 +72,29 @@
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85
 
+![image](https://user-images.githubusercontent.com/105606339/185994204-f51fc1e5-eb7b-43b9-a123-a4511d1b713a.png)
 
+![image](https://user-images.githubusercontent.com/105606339/186001134-7d6df460-b067-437b-867f-32ca2213434a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/185994247-fbfaee8d-55ef-4777-b9ca-0bd35c986dbe.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186005752-0d9a7113-b4f2-481a-a0ec-115eae768d47.png)
+
+![image](https://user-images.githubusercontent.com/105606339/185994282-a597ec77-674a-4564-b0ed-de2be3711ea1.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186005553-4e65fc88-4647-4698-9b14-bd228a36ea55.png)
+
+24. Repita el problema 23 con C = 0.0047 mF. 
+
+![image](https://user-images.githubusercontent.com/105606339/186006955-7c1ca12b-ed6f-46dd-a71e-b3ceef5d3caf.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186008281-edab17a6-1473-42f9-bf1b-cadf8250ead2.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186008447-267792ae-e238-4f88-9862-75e73d0bc4b7.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186008608-c82905a2-56c0-4e72-944a-0ccac6805167.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186008815-22f8722f-3264-4283-9f42-975264c6f3ec.png)
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84
 
@@ -88,8 +110,23 @@
 
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85
 
+![image](https://user-images.githubusercontent.com/105606339/186009803-dfe9b4d3-784e-4de4-8efa-b9ba15101d68.png)
 
+![image](https://user-images.githubusercontent.com/105606339/186010817-8e2d9758-e4cc-45c6-9086-e18dd12d6290.png)
 
+![image](https://user-images.githubusercontent.com/105606339/186009848-1fb7d88f-6b38-41c9-8a29-cd564bb10104.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186011461-c10873b4-3408-4932-a89c-66e9d7792ab4.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186009898-a931c393-d2cc-4a37-bcb9-850f4481e89d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186011937-298a388e-bb2b-4114-8d86-c28590001682.png)
+
+32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
+
+![image](https://user-images.githubusercontent.com/105606339/186012742-b47a73f7-f6e0-4c32-bd82-dc5c9040296e.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186022471-b2b9c90e-1b2f-427d-8c23-5227ea469e6b.png)
 
 40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
 
@@ -113,11 +150,47 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/185791889-4a76864a-ac44-43c3-8dbc-804fd10a5117.png)
 
+![image](https://user-images.githubusercontent.com/105606339/186026664-31ef46c0-d134-4100-90bf-5357a6020ead.png)
 
 
+52. Para el circuito de la figura 15-101, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105606339/186066134-a4eff6d0-2211-43a6-a8e0-3b52ab1b45a7.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186057038-e97da939-4ee4-4f56-89ef-7e0df0a20e1b.png)
+
+(a)
+
+![image](https://user-images.githubusercontent.com/105606339/186066655-2860ac99-8b97-4dfc-93f4-c56fbfa81a42.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/186066692-68bbabd5-9d80-4aa5-a7c4-eb7306dec9f0.png)
+
+58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+
+![image](https://user-images.githubusercontent.com/105606339/185993664-326c5538-4cc1-4695-b972-69a452bfea56.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186071714-de022b12-8260-4620-b736-90593dc850a1.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186071728-747bfc33-148e-4deb-9fdf-9b6f774dc8a6.png)
 
 
+62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de
+0.0022 µF y todos los resistores de 10 kΩ.
 
+![image](https://user-images.githubusercontent.com/105606339/186072022-2fa2e824-2e39-45f4-96cb-787b2edfac07.png)
 
+![image](https://user-images.githubusercontent.com/105606339/186080376-2c7c69ea-25b3-4774-84a5-c6690d029c06.png)
+
+66. Los capacitores de la figura 15-107 han desarrollado un resistencia de fuga de 2 kΩ. Determine los voltajes de salida en esta condición para cada circuito
+
+![image](https://user-images.githubusercontent.com/105606339/186083759-c4e691cf-2444-4d35-9ed9-5b9c5760c7d8.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186084159-8955f4ca-dca7-4a22-afa4-986c86db097a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186084275-e2cc9899-c004-449a-bccc-74b655eec18b.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186087400-97196987-c202-4a3b-b279-97525c27eefd.png)
 
 
