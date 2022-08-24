@@ -16,7 +16,11 @@ Analizar los conceptos básicos de circuitos RL y circuitos RC dispuestos en ser
 
 ### Capítulo 15
 
+![Diagrama en blanco (15)](https://user-images.githubusercontent.com/105606339/186329778-b6377aa4-def0-48dc-902a-d28d17b7412a.png)
+
 ### Capítulo 16
+
+![Diagrama en blanco (16)](https://user-images.githubusercontent.com/105606339/186329820-9e3b5d04-10e2-435b-a162-52067e4327c0.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
