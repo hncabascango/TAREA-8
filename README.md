@@ -1,18 +1,39 @@
-# TAREA-8
+# INFORME TAREA 8
 
+## OBJETIVOS
+
+### Objetivo General
+
+Analizar los conceptos básicos de circuitos RL y circuitos RC dispuestos en serie, paralelo y serie-paralelo; logrando comprender la relación entre corriente y voltaje para posteriormente aplicar los conceptos en la resolución de los problemas propuestos.
+
+### Objetivos Específicos
+
+- Comprender la definición de números complejos y su aplicación en operaciones básicas para posteriormente usarlos en la expresión de cantidades fasoriales.
+- Estudiar la relación entre corriente y voltaje en un circuito RC en circuitos en serie, paralelo y circuitos serie-paralelo.
+- Estudiar la relación entre corriente y voltaje en un circuito RL en circuitos en serie, paralelo y circuitos serie-paralelo.
+
+## MARCO TEÓRICO
+
+### Capítulo 15
+
+### Capítulo 16
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 2. Localice los siguientes números en el plano complejo:
 
-![image](https://user-images.githubusercontent.com/105606339/185285625-bcededbe-fbd7-4a03-8443-efa805ef1b67.png)
+![image](https://user-images.githubusercontent.com/105606339/186326250-dc872fb8-2672-4ef5-b877-570da9ef3023.png)
 
+![image](https://user-images.githubusercontent.com/105606339/185285625-bcededbe-fbd7-4a03-8443-efa805ef1b67.png)
 
 4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3
 
 ![image](https://user-images.githubusercontent.com/105606339/185286982-9ccf173d-788d-4d1f-a475-d1c8bb1e5f18.png)
 
-
 6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:
+
 (a) 3 unidades a la derecha del origen sobre el eje real, y 5 unidades hacia arriba sobre el eje j.
+
 ![image](https://user-images.githubusercontent.com/105606339/185287787-90ca8304-a9f4-4d6c-ad95-50ed5cbbd8fe.png)
 
 (b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
@@ -25,6 +46,8 @@
 
 8. Convierta cada uno de los siguientes números rectangulares a forma polar:
 
+![image](https://user-images.githubusercontent.com/105606339/186326370-9773d450-9ab7-4c22-8556-e88bccdb219d.png)
+
 ![image](https://user-images.githubusercontent.com/105606339/185298761-50249efb-a235-4757-88dd-b5810b925b19.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/185298786-aa070751-3a22-4e60-b419-a47380c4015f.png)
@@ -35,6 +58,8 @@
 
 10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo
 
+![image](https://user-images.githubusercontent.com/105606339/186326427-2601cf35-93b3-4e86-8877-6f9fb758711d.png)
+
 ![image](https://user-images.githubusercontent.com/105606339/185299555-1786f176-2174-46f4-9e70-38c56f00eb18.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/185299580-0afa272c-cd5e-49ee-93c6-f44039580f1d.png)
@@ -42,8 +67,11 @@
 ![image](https://user-images.githubusercontent.com/105606339/185299602-663e8d4e-10ac-450e-a452-fef46bba5adc.png)
 
 12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
+
 (a) Segundo cuadrante
+
 (b) Primer cuadrante
+
 (c) Cuarto cuadrante
 
 14. Sume los siguientes conjuntos de números complejos:
@@ -193,4 +221,13 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/186087400-97196987-c202-4a3b-b279-97525c27eefd.png)
 
+## CONCLUSIONES
+- Los números complejos son números que tienen una parte real y una parte imaginaria, y permite la descripción de cantidades fasoriales, asi como también es muy útil en el análisis de circuitos de ca.
+- En un circuito RC dispuesto en serie, la corriente es la misma a través tanto del resistor como del capacitor. Por tanto, el voltaje en el resistor está en fase con la corriente y el voltaje en el capacitor va retrasado en 90° con respecto a la corriente. 
+-  En un circuito RL, el voltaje en el resistor y la corriente se retrasan con respecto al voltaje de la fuente. El voltaje en el inductor se adelanta al voltaje de fuente. Idealmente, el ángulo de fase entre la corriente y el voltaje en el inductor siempre es de 90°. 
 
+## BIBILIOGRAFÍA
+
+Vargas, L., & Maldonado, E. (13 de marzo de 2012). MEDIO. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf
+
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
