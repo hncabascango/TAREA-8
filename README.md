@@ -225,6 +225,28 @@ Analizar los conceptos básicos de circuitos RL y circuitos RC dispuestos en ser
 
 ![image](https://user-images.githubusercontent.com/105606339/186087400-97196987-c202-4a3b-b279-97525c27eefd.png)
 
+4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. 
+
+![image](https://user-images.githubusercontent.com/105606339/186525872-cc6fb59c-993c-47df-890b-486026284b4a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186527976-665b1d81-7381-46e0-a3a6-32aa239b94b5.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186525894-c7c2339e-c44f-4fa3-8a19-280a79e721ef.png)
+
+![image](https://user-images.githubusercontent.com/105606339/186527990-ed61a846-1bf4-48a2-92f3-a7cbf27be811.png)
+
+6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia
+total:
+
+![image](https://user-images.githubusercontent.com/105606339/186528086-b465903b-cb9f-429a-af13-425d54d506de.png)
+
+
+
+
+
+
+
+
 ## CONCLUSIONES
 - Los números complejos son números que tienen una parte real y una parte imaginaria, y permite la descripción de cantidades fasoriales, asi como también es muy útil en el análisis de circuitos de ca.
 - En un circuito RC dispuesto en serie, la corriente es la misma a través tanto del resistor como del capacitor. Por tanto, el voltaje en el resistor está en fase con la corriente y el voltaje en el capacitor va retrasado en 90° con respecto a la corriente. 
