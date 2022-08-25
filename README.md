@@ -240,12 +240,21 @@ total:
 
 ![image](https://user-images.githubusercontent.com/105606339/186528086-b465903b-cb9f-429a-af13-425d54d506de.png)
 
+(a)
 
+![image](https://user-images.githubusercontent.com/105606339/186579601-0d327155-f9b6-4d59-a361-8e31600113df.png)
 
+(b)
 
+![image](https://user-images.githubusercontent.com/105606339/186579619-ca72dbe0-1613-4a00-ae7d-04387fad2dfe.png)
 
+(c)
 
+![image](https://user-images.githubusercontent.com/105606339/186579666-0cd8e8e8-ea09-41ba-8244-3108744077ee.png)
 
+(d)
+
+![image](https://user-images.githubusercontent.com/105606339/186579683-a7a27561-d863-41ab-bee9-529a1d45b119.png)
 
 ## CONCLUSIONES
 - Los números complejos son números que tienen una parte real y una parte imaginaria, y permite la descripción de cantidades fasoriales, asi como también es muy útil en el análisis de circuitos de ca.
