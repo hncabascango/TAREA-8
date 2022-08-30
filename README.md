@@ -256,6 +256,140 @@ total:
 
 ![image](https://user-images.githubusercontent.com/105606339/186579683-a7a27561-d863-41ab-bee9-529a1d45b119.png)
 
+8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
+
+![image](https://user-images.githubusercontent.com/105606339/187348787-030bfa69-5010-4451-9b26-ff2cf933193e.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348803-22547870-76f6-4496-938d-e6d3602f9f26.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348811-a193e996-8fdc-4976-b4ca-2d424515c683.png)
+
+10. Exprese la corriente en forma polar para cada circuito de la figura 16-54
+
+![image](https://user-images.githubusercontent.com/105606339/187348880-c49cd04a-f243-4063-961b-086f4dc96d46.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348961-4a734f00-2977-4403-b4a9-dbebce8e6f9c.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348895-ac8f05d6-4ee8-4d59-814d-db0e6ec26db1.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348909-245033f0-7736-4371-ad68-2db85ba71137.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348939-2f9bf051-e244-4ba3-9516-873d346326a9.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187348993-6add7ede-2dce-4b55-a02a-b192e5894ebb.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349005-c5815ae1-06b7-47e2-895d-c10ae5873523.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349017-95204b12-72d2-490f-a3e2-eab37efb2223.png)
+
+12. Determine u para el circuito de la figura 16-58
+
+![image](https://user-images.githubusercontent.com/105606339/187349079-c30d1042-106e-43b3-89f4-77040556f829.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349095-4a2c53ae-75cd-4645-b10d-61d927373989.png)
+
+14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas. 
+
+![image](https://user-images.githubusercontent.com/105606339/187349150-f794b10d-6a62-48bd-a646-e6afe330d305.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349161-6a9d5bf8-7671-44d7-bb47-945094a299f8.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349168-9b5db249-d0dc-4df2-a196-a612dea0ac9b.png)
+
+16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16- 60.
+
+![image](https://user-images.githubusercontent.com/105606339/187349227-c104ef45-3af8-4507-bd15-5176e8654946.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349241-9187f6b3-9800-4bc5-87e5-e34661a7ff24.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349249-bb389593-fadf-4a48-a029-8a060beaf192.png)
+
+18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
+
+![image](https://user-images.githubusercontent.com/105606339/187349336-d9d5deb4-277e-4696-80ff-e934b57c43e9.png)
+
+(a) 1 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/187349374-6f8815fe-40c4-456c-a39e-6ebe4efd7ca7.png)
+
+(b) 100 Hz
+
+![image](https://user-images.githubusercontent.com/105606339/187349399-82255ec9-aff9-443f-ab1c-2f3c4d00fc4b.png)
+
+(c) 1kHz
+
+![image](https://user-images.githubusercontent.com/105606339/187349420-d3f265b5-43af-4a13-9143-be3439dd5f15.png)
+
+(d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/105606339/187349463-7c29c972-c50e-475c-ac28-5b776500bc33.png)
+
+20. Repita el problema 19 para las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105606339/187349522-4c4bff7d-b826-4078-ae30-d4220e4a866c.png)
+
+(a)
+
+![image](https://user-images.githubusercontent.com/105606339/187349548-7ad72d47-4352-42da-8273-7a5926b15d10.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349563-c3ad213a-e39f-4668-8743-88641b129533.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/187349575-00888b64-3b37-41eb-82dd-17b6cb2583f8.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349585-1fa6c1e2-f122-422f-ae7d-931d6b363644.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/105606339/187349604-4dac6b1f-c649-477f-b2ae-5cc9d7d12358.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349616-a56143f2-0375-473d-b1f6-a004637dd68d.png)
+
+(d)
+
+![image](https://user-images.githubusercontent.com/105606339/187349638-a2a3b4cf-72de-4a01-a141-6fee9f6d028d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349693-ecbe01d4-457e-4d96-b5b0-34de27641dbf.png)
+
+22. Encuentre la corriente total y cada corriente de rama en la figura 16-64.
+
+![image](https://user-images.githubusercontent.com/105606339/187349718-daca29c8-7a99-4a13-aeca-beb69d09ba0f.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349768-d428e853-6620-4fb5-a1e2-3c0944a3ed2d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349780-78f9f8ad-1e8e-4797-8619-39aabe0ff3f2.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349802-51bb4490-a102-4e57-95f6-39ea4dc05cf1.png)
+
+26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.
+
+![image](https://user-images.githubusercontent.com/105606339/187349856-c0199a44-ca29-4a24-b56b-9844db63ce2f.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349877-49a63b7f-551a-4ef2-84f0-54bd569525fb.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349911-68ab1f02-a19e-4704-8e95-818fab87c4ac.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187349923-fb66b150-1701-48a6-8df5-3051e43bd00b.png)
+
+34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
+
+![image](https://user-images.githubusercontent.com/105606339/187350053-c0404fcf-257e-41cb-8b5d-41146db0c300.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187350072-c6c4fc3e-3818-4ed3-aa3a-0e3af40ba4c5.png)
+
+36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuáles la potencia aparente?
+
+![image](https://user-images.githubusercontent.com/105606339/187350109-cf696527-5150-49c7-a2da-8c1565cb63df.png)
+
+38. ¿Cuál es el factor de potencia en la figura 16-64?
+
+![image](https://user-images.githubusercontent.com/105606339/187350183-ea3f3fed-9c6b-491a-80e0-2e81d9cd2380.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187350205-d3b5e6ac-bd5c-4c25-8660-b7b2135d35ba.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187350213-ab2eeb86-ea59-4ccf-9e72-fc3c941b87ce.png)
+
 ## CONCLUSIONES
 - Los números complejos son números que tienen una parte real y una parte imaginaria, y permite la descripción de cantidades fasoriales, asi como también es muy útil en el análisis de circuitos de ca.
 - En un circuito RC dispuesto en serie, la corriente es la misma a través tanto del resistor como del capacitor. Por tanto, el voltaje en el resistor está en fase con la corriente y el voltaje en el capacitor va retrasado en 90° con respecto a la corriente. 
